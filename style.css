@@ -1,0 +1,28 @@
+header, nav, section  {
+    margin-left: auto;
+    margin-right: auto;
+    width: 48rem;
+}
+
+ul, li {
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+}
+
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1em;
+}
